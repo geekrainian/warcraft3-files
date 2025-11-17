@@ -1,0 +1,16 @@
+WhosYourDaddy - режим бога
+ThereIsNoSpoon - неограниченное количество маны
+LeafitToMe [кол-во] - дает указанное количество дерева
+KeyserSoze [кол-во] - дает указанное количество золота
+GreedIsGood [кол-во] - одноверменно дает указанное количество и того, и другого
+PointBreak - убирает лимит еды
+SomebodySetUpUsTheBomb - немедленное поражение
+AllYourBaseAreBelongToUs - немедленная победа
+WarpTen - ускоряет строительство зданий и юнитов
+IocainePowder - трупы исчезают быстрее
+WhoIsJohnGalt - включить исследования
+SharpAndShiny - исследовать апгрейды
+IseeDeadPeople - убрать "туман войны"
+Synergy - убрать требования дерева технологий
+RiseAndShine - установить игровое время на рассвет
+LightsOut - установить игровое время на закат
