@@ -1,0 +1,3 @@
+*.exe filter=lfs diff=lfs merge=lfs -binary
+*.zip filter=lfs diff=lfs merge=lfs -binary
+*.rar filter=lfs diff=lfs merge=lfs -binary
