@@ -1,3 +1,9 @@
 *.exe filter=lfs diff=lfs merge=lfs -binary
 *.zip filter=lfs diff=lfs merge=lfs -binary
 *.rar filter=lfs diff=lfs merge=lfs -binary
+*.7z filter=lfs diff=lfs merge=lfs -binary
+
+*.jpg filter=lfs diff=lfs merge=lfs -binary
+*.png filter=lfs diff=lfs merge=lfs -binary
+*.gif filter=lfs diff=lfs merge=lfs -binary
+*.tga filter=lfs diff=lfs merge=lfs -binary
